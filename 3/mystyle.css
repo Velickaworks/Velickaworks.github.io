@@ -1,0 +1,16 @@
+.pirmas {font-weight: bolder; text-align: center; width: 100%;}
+.antras{text-align: center;}
+.hh {border: 2px solid black; height: 40%; margin: auto; text-align: center; width: 60%;
+  border-collapse: collapse;
+  padding: 15px;
+}
+.img {text-align: center;}
+body {
+	background-image: url("food.png"); 
+}
+#g {
+	position: fixed;
+    bottom: 0;
+    font-weight: bolder;
+}
+th:hover {background-color: lightgrey;}
