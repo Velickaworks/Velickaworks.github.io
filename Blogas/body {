@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+	background-image: url(http://xmbmods.co/XMBPD/Wallpapers/Plain/Plain%200016.jpg)
+}
+.pirmas {
+	display: flex;
+    background-color: #F9BA55;
+	width: 100vw;
+	border-right: none;
+	align-items: center;
+    flex-direction: row;
+	
+}
+.pirmas-box{
+	font-family: Aharoni;
+	font-size: 250%;
+	font-weight: bolder;
+	height: 12vh;
+	border: 3px solid #000;
+	box-sizing: border-box;
+	width: 33.38vw;
+	text-align: right;
+	padding-top: 3vh;
+	padding-right:2vw;
+}
+.main{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100vw;
+	height: calc(100vh - 100px);
+	flex-wrap: nowrap
+}
+.articles{
+	display:inline-block;
+	border: 3px solid black;
+	width: 20%;
+	text-align: center;
+	background-color: #F9BA55;
+}
+.paveiksliukai{
+	width: 100%;
+	height:200px;
+}
+.first{
+	background: url(https://designformankind.com/wp-content/uploads/2018/11/freestocks-org-470418-unsplash1.jpg) no-repeat center center;
+	background-size: cover;
+}
+.second{
+	background: url(https://designformankind.com/wp-content/uploads/2018/09/P5800261.jpg) no-repeat center center;
+	background-size: cover;
+}
+.third{
+	background: url(https://designformankind.com/wp-content/uploads/2018/10/P58101491.jpg) no-repeat center center;
+	background-size: cover
+
+}
+.fourth{
+	background: url(https://designformankind.com/wp-content/uploads/2018/08/P1350912.jpg) no-repeat center center;
+	background-size: cover;
+}
+.tekstas{
+	float-left;
+	min-height: 200px;
+	width: 100%;
+	border-top: 3px solid black;
+}
+.title{
+	font-size: 22px;
+	font-weight: bold;
+	font-family: Aharoni;
+}

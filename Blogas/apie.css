@@ -1,0 +1,11 @@
+.text{
+	text-align: center;
+	font-family: Aharoni;
+	font-size: 70px;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	padding-top: 25vh;
+}
+body {
+	margin: 0;
+	background-image: url(http://xmbmods.co/XMBPD/Wallpapers/Plain/Plain%200016.jpg)
